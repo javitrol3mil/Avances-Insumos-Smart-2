@@ -1,6 +1,6 @@
 # Proyecto - V1.2
 
-## 🔧 Comando para iniciar el entorno virtual
+## 🔧 Comando para iniciar el Servidor Local
 
 ```bash
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
